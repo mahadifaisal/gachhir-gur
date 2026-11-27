@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="গাছির গুড় লোগো">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F0AE55"/><stop offset="1" stop-color="#B86A1E"/></linearGradient></defs>
+<circle cx="100" cy="100" r="96" fill="#4A2410"/>
+<circle cx="100" cy="100" r="88" fill="none" stroke="#D8892B" stroke-width="4"/>
+<circle cx="100" cy="100" r="80" fill="none" stroke="#D8892B" stroke-width="1" opacity=".5"/>
+<!-- khejur gach -->
+<path d="M96 150 C94 120 98 96 100 74 L106 74 C106 98 108 122 108 150 Z" fill="#C98B4A"/>
+<g stroke="#4A2410" stroke-width="2" opacity=".55"><path d="M96 138h12M96 124h11M97 110h10M98 96h8"/></g>
+<g fill="none" stroke="#7DB255" stroke-width="7" stroke-linecap="round">
+<path d="M103 72 Q80 52 52 66"/><path d="M103 72 Q126 52 154 66"/><path d="M103 72 Q86 40 66 36"/><path d="M103 72 Q122 40 142 36"/><path d="M103 72 Q103 46 103 28"/>
+</g>
+<!-- hãri + gur drop -->
+<path d="M110 100 l12 6" stroke="#C98B4A" stroke-width="3" stroke-linecap="round"/>
+<path d="M118 106 Q118 128 130 130 Q142 128 142 106 Z" fill="#9B5A2B"/>
+<ellipse cx="130" cy="106" rx="12" ry="4" fill="#E9A44A"/>
+<!-- gur patali -->
+<g transform="rotate(-8 100 164)"><rect x="56" y="152" width="88" height="26" rx="8" fill="#8E4A15"/><rect x="60" y="155" width="80" height="20" rx="6" fill="url(#g)"/><rect x="66" y="159" width="26" height="4" rx="2" fill="#FFD28F" opacity=".75"/></g>
+</svg>

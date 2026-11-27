@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="খেজুরের গুড়ের পাটালি ও মাটির হাঁড়ি">
+<defs>
+<radialGradient id="bg" cx="50%" cy="42%" r="70%"><stop offset="0" stop-color="#9A5524"/><stop offset="1" stop-color="#3F1E0D"/></radialGradient>
+<linearGradient id="pot" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7E4320"/><stop offset=".5" stop-color="#B8672F"/><stop offset="1" stop-color="#6E3A1B"/></linearGradient>
+<linearGradient id="gur" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F0AE55"/><stop offset="1" stop-color="#B86A1E"/></linearGradient>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<g stroke="#4F7A35" stroke-width="10" stroke-linecap="round" fill="none" opacity=".85">
+<path d="M400 20 Q400 120 400 200"/><path d="M400 60 Q330 70 260 130"/><path d="M400 60 Q470 70 540 130"/><path d="M400 100 Q320 120 240 200"/><path d="M400 100 Q480 120 560 200"/>
+</g>
+<ellipse cx="400" cy="705" rx="270" ry="34" fill="#00000050"/>
+<path d="M150 400 Q150 680 400 690 Q650 680 650 400 Z" fill="url(#pot)"/>
+<ellipse cx="400" cy="400" rx="250" ry="62" fill="#5E2F15"/>
+<ellipse cx="400" cy="396" rx="222" ry="48" fill="#C9791F"/>
+<path d="M210 396 Q245 450 285 396 Q325 466 370 396 Q415 470 460 396 Q505 456 545 396 Q575 440 590 396" fill="#EFA64B" opacity=".9"/>
+<rect x="215" y="500" width="370" height="16" rx="8" fill="#A85C2A" opacity=".8"/>
+<rect x="240" y="560" width="320" height="16" rx="8" fill="#A85C2A" opacity=".8"/>
+<g transform="translate(110 235) rotate(-14)"><rect width="210" height="100" rx="18" fill="#8E4A15"/><rect x="10" y="8" width="190" height="78" rx="12" fill="url(#gur)"/><rect x="28" y="22" width="70" height="10" rx="5" fill="#FFD28F" opacity=".7"/></g>
+<g transform="translate(490 255) rotate(11)"><rect width="195" height="94" rx="18" fill="#8E4A15"/><rect x="10" y="8" width="175" height="72" rx="12" fill="url(#gur)"/><rect x="26" y="20" width="64" height="10" rx="5" fill="#FFD28F" opacity=".7"/></g>
+<path d="M400 170 Q378 232 400 268 Q422 232 400 170Z" fill="#F0AE55"/>
+</svg>
